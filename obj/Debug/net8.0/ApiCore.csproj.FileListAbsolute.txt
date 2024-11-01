@@ -31,3 +31,4 @@ C:\Proyectos\API\ApiCore\obj\Debug\net8.0\refint\ApiCore.dll
 C:\Proyectos\API\ApiCore\obj\Debug\net8.0\ApiCore.pdb
 C:\Proyectos\API\ApiCore\obj\Debug\net8.0\ApiCore.genruntimeconfig.cache
 C:\Proyectos\API\ApiCore\obj\Debug\net8.0\ref\ApiCore.dll
+C:\Proyectos\API\ApiCore\obj\Debug\net8.0\ApiCore.sourcelink.json
