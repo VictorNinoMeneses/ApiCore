@@ -17,6 +17,9 @@ COPY --from=build-env /app/out .
 
 # Expose the port your app runs on (default is 80)
 EXPOSE 80
+EXPOSE 5000
+ENV ASPNETCORE_HTTP_PORTS=5000
+ENV ASPNETCORE_ENVIRONMENT=Development
 
 # Start the application
 ENTRYPOINT ["dotnet", "ApiCore.dll"]
